@@ -1,0 +1,6 @@
+# cfg
+/config
+# the most heavy thing the whole world
+/node_modules
+# docker
+/docker

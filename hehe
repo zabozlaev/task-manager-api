@@ -1,0 +1,7 @@
+PROJECT(USER_ID) -> USER
+TASK(PROJECT_ID) -> PROJECT
+TASK -> DONE(true) 
+
+// ЭТО ЖЕ ОЧЕНЬ МНОГО?
+
+user_id еще и в таск это правильно?
